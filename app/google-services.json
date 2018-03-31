@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960644864042",
+    "firebase_url": "https://uplaodfileusingfcm.firebaseio.com",
+    "project_id": "uplaodfileusingfcm",
+    "storage_bucket": "uplaodfileusingfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960644864042:android:f8379750f609a4ba",
+        "android_client_info": {
+          "package_name": "com.example.vidya.uplaodfileusingfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960644864042-um3894r7nt6n76llflel5ed9k1lmkp72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vidya.uplaodfileusingfcm",
+            "certificate_hash": "f3155585c333b5c62207f9dcce39c15beaf2cb76"
+          }
+        },
+        {
+          "client_id": "960644864042-p7shpub9husscvcmeu71qphko2j3q47a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDQ1PY9xGbU3C0IIaDuyLCwbC9002YIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960644864042-p7shpub9husscvcmeu71qphko2j3q47a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
